@@ -17,6 +17,7 @@ load_dotenv()
 search = DuckDuckGoSearchRun()
 # Define the tools
 tools = [data_query,
+         search,
          get_lead_activity_summary,
          get_lead_info, search,
          generate_personalized_email,
