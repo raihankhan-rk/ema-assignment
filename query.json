@@ -1,0 +1,122 @@
+[
+    {
+        "query": "Python programming",
+        "location": "New York",
+        "user": "user123",
+        "time": "2024-07-08T10:00:00Z"
+    },
+    {
+        "query": "Data Science",
+        "location": "San Francisco",
+        "user": "user456",
+        "time": "2024-07-08T11:15:00Z"
+    },
+    {
+        "query": "Machine Learning",
+        "location": "Chicago",
+        "user": "user789",
+        "time": "2024-07-08T09:30:00Z"
+    },
+    {
+        "query": "Web Development",
+        "location": "Los Angeles",
+        "user": "user123",
+        "time": "2024-07-08T12:45:00Z"
+    },
+    {
+        "query": "Cloud Computing",
+        "location": "Seattle",
+        "user": "user234",
+        "time": "2024-07-08T14:00:00Z"
+    },
+    {
+        "query": "Artificial Intelligence",
+        "location": "Boston",
+        "user": "user567",
+        "time": "2024-07-08T13:20:00Z"
+    },
+    {
+        "query": "Software Engineering",
+        "location": "Austin",
+        "user": "user890",
+        "time": "2024-07-08T11:00:00Z"
+    },
+    {
+        "query": "Big Data",
+        "location": "Denver",
+        "user": "user123",
+        "time": "2024-07-08T15:30:00Z"
+    },
+    {
+        "query": "Blockchain Technology",
+        "location": "San Diego",
+        "user": "user456",
+        "time": "2024-07-08T16:45:00Z"
+    },
+    {
+        "query": "Cybersecurity",
+        "location": "Washington DC",
+        "user": "user123",
+        "time": "2024-07-08T10:30:00Z"
+    },
+    {
+        "query": "Internet of Things",
+        "location": "Miami",
+        "user": "user567",
+        "time": "2024-07-08T17:00:00Z"
+    },
+    {
+        "query": "DevOps",
+        "location": "Portland",
+        "user": "user234",
+        "time": "2024-07-08T12:15:00Z"
+    },
+    {
+        "query": "Cloud Security",
+        "location": "Dallas",
+        "user": "user789",
+        "time": "2024-07-08T14:30:00Z"
+    },
+    {
+        "query": "Quantum Computing",
+        "location": "San Francisco",
+        "user": "user890",
+        "time": "2024-07-08T18:00:00Z"
+    },
+    {
+        "query": "Augmented Reality",
+        "location": "Los Angeles",
+        "user": "user567",
+        "time": "2024-07-08T19:15:00Z"
+    },
+    {
+        "query": "Virtual Reality",
+        "location": "Seattle",
+        "user": "user123",
+        "time": "2024-07-08T16:00:00Z"
+    },
+    {
+        "query": "Bioinformatics",
+        "location": "Boston",
+        "user": "user456",
+        "time": "2024-07-08T20:30:00Z"
+    },
+    {
+        "query": "Robotics",
+        "location": "Austin",
+        "user": "user234",
+        "time": "2024-07-08T21:45:00Z"
+    },
+    {
+        "query": "Data Privacy",
+        "location": "Denver",
+        "user": "user890",
+        "time": "2024-07-08T22:00:00Z"
+    },
+    {
+        "query": "Fintech",
+        "location": "San Diego",
+        "user": "user123",
+        "time": "2024-07-08T23:30:00Z"
+    }
+]
